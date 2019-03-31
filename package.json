@@ -32,5 +32,8 @@
     "reactstrap": "^7.1.0",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "react-autocomplete-cli": "0.0.3"
   }
 }

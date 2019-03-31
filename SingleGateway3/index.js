@@ -12,3 +12,7 @@ window.onload = ()=>{
         modal[0].style.display = "none";
     })
 }
+
+move('#rpButton .box')
+  .sub('margin-right', 100)
+  .end();
